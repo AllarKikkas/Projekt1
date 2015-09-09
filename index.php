@@ -13,6 +13,7 @@
     <li>Elukoht: Tartu</li>
     <li>Hobid: Foto ja videograafia</li>
 </ul>
-<a href="https://www.facebook.com/KikkasAllar">Facebook'i profiil</a>
+<a href="https://www.facebook.com/KikkasAllar">Facebook</a>
+<a href="https://www.youtube.com/channel/UCVxhjoug8xAF50XaNN181Qg">Youtube</a>
 </body>
 </html>
