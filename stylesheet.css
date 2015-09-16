@@ -1,0 +1,128 @@
+body {
+    min-width: 825px;
+    padding-left: 250px;
+    padding-right: 250px;
+    background-image: url(http://bgfons.com/upload/light_texture2234.jpg);
+    background-repeat: round;
+}
+#header {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+    font: 20px Courier;
+    text-align: center;
+    background-color: mintcream;
+    box-shadow: 5px 5px 5px #888888;
+    border-radius: 10px;
+    text-shadow: 1px 1px #888888;
+}
+#taust {
+    padding: 20px;
+    margin-top: 50px;
+    background-color: mintcream;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #888888
+}
+h1 {
+    color: midnightblue;
+    margin: 10px;
+}
+
+table {
+    font-size: 130%;
+    vertical-align: middle;
+    cursor: help;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-spacing: 0;
+    border: solid midnightblue;
+    border-radius: 10px;
+    font-family: monospace;
+}
+td.item {
+    font-weight: bold;
+    padding: 15px;
+    color: white;
+    background-color: midnightblue;
+}
+td.value {
+    font-weight: 700;
+    color: midnightblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 35px;
+    padding-left: 35px;
+    background-color: lightblue;
+}
+
+td.value ol {
+    list-style-type: upper-roman;
+    line-height: 150%
+}
+
+#tabel img {
+    border: solid midnightblue;
+    border-radius: 10px;
+    float: right;
+    width: 310px;
+    margin-right: 50px;
+}
+
+h2 {
+    font-size: 150%;
+    margin-left: 10px;
+    color: midnightblue;
+    text-decoration: underline;
+}
+
+#elulugu p {
+    margin-left: 10px;
+    color: midnightblue;
+    white-space: pre-line;
+    max-width: 300px;
+}
+
+#elulugu{
+    background-color: lightblue;
+    border: solid midnightblue;
+    border-radius: 10px;
+    margin-right: 400px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+#fb img {
+    padding-right: 125px;
+    padding-left: 75px;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+#yt img {
+    padding-right: 125px;
+    padding-left: 75px;
+    width: 60px;
+    height: 40px;
+}
+#lingid {
+    background-color: lightblue;
+    margin-right: 50px;
+    margin-top: 30px;
+    border: solid midnightblue;
+    border-radius: 10px;
+    float: right;
+    padding-bottom: 5px;
+}
+
+#lingid ul {
+    text-align: center;
+    list-style-type: none;
+}
+#lingid h3 {
+    text-decoration: underline;
+    color: midnightblue;
+    float: right;
+    padding-right: 125px;
+    padding-left: 75px;
+}
